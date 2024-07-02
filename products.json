@@ -1,0 +1,112 @@
+[
+    {
+      "productId": "1",
+      "name": "Microsoft Surface Pro 7",
+      "description": "Ultra-light and versatile.",
+      "image": "/surface_laptop.jpg",
+      "discount": 10,
+      "price": 899,
+      "quantity": 100,
+      "category": "Tablets",
+      "available": true
+    },
+    {
+      "productId": "2",
+      "name": "Microsoft Surface Laptop 3",
+      "description": "Slim and stylish.",
+      "image": "https://example.com/surface-laptop-3.jpg",
+      "discount": 15,
+      "price": 999,
+      "quantity": 200,
+      "category": "Laptops",
+      "available": true
+    },
+    {
+      "productId": "3",
+      "name": "Microsoft Xbox Series X",
+      "description": "The fastest, most powerful Xbox ever.",
+      "image": "https://example.com/xbox-series-x.jpg",
+      "discount": 5,
+      "price": 499,
+      "quantity": 150,
+      "category": "Gaming",
+      "available": true
+    },
+    {
+      "productId": "4",
+      "name": "Microsoft Office 365",
+      "description": "Subscription service with premium Office apps.",
+      "image": "https://example.com/office-365.jpg",
+      "discount": 20,
+      "price": 99,
+      "quantity": 500,
+      "category": "Software",
+      "available": true
+    },
+    {
+        "productId": "5",
+        "name": "Microsoft Surface Book 3",
+        "description": "Powerhouse performance in a laptop.",
+        "image": "https://example.com/surface-book-3.jpg",
+        "discount": 12,
+        "price": 1299,
+        "quantity": 150,
+        "category": "Laptops",
+        "available": true
+      },
+      {
+        "productId": "6",
+        "name": "Microsoft Surface Go 2",
+        "description": "Lightweight and portable.",
+        "image": "https://example.com/surface-go-2.jpg",
+        "discount": 8,
+        "price": 399,
+        "quantity": 200,
+        "category": "Tablets",
+        "available": true
+      },
+      {
+        "productId": "7",
+        "name": "Microsoft Surface Studio 2",
+        "description": "Designed for creative work.",
+        "image": "https://example.com/surface-studio-2.jpg",
+        "discount": 15,
+        "price": 3499,
+        "quantity": 50,
+        "category": "Desktops",
+        "available": true
+      },
+      {
+        "productId": "8",
+        "name": "Microsoft Xbox Series S",
+        "description": "Next-gen performance in the smallest Xbox ever.",
+        "image": "https://example.com/xbox-series-s.jpg",
+        "discount": 5,
+        "price": 299,
+        "quantity": 200,
+        "category": "Gaming",
+        "available": true
+      },
+      {
+        "productId": "9",
+        "name": "Microsoft Surface Duo",
+        "description": "Revolutionary dual-screen device.",
+        "image": "https://example.com/surface-duo.jpg",
+        "discount": 10,
+        "price": 1399,
+        "quantity": 100,
+        "category": "Mobile Devices",
+        "available": true
+      },
+      {
+        "productId": "10",
+        "name": "Microsoft Windows 11 Pro",
+        "description": "The latest Windows operating system.",
+        "image": "https://example.com/windows-11.jpg",
+        "discount": 15,
+        "price": 199,
+        "quantity": 1000,
+        "category": "Software",
+        "available": true
+      }
+  ]
